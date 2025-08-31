@@ -1,0 +1,5 @@
+# ignore input.txt.
+input.txt
+
+# ignore venv
+venv/
